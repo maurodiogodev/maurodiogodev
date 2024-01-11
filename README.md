@@ -11,3 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Contact
+
+<a href="https://linkedin.com/in/mauro-diogo-6149602a7" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
