@@ -2,7 +2,6 @@
 
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning Git and Github
-- 💞️ I’m looking to collaborate on <a style="font-weight: bold" href="https://fcamara.com/" target="_blank">FCamara</a>
 
 <!---
 maurodiogodev/maurodiogodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
